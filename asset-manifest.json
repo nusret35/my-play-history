@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/my-play-history/static/css/main.a3d56e6c.css",
-    "main.js": "/my-play-history/static/js/main.a6e0c5ef.js",
+    "main.js": "/my-play-history/static/js/main.005a6963.js",
     "static/js/787.854f476b.chunk.js": "/my-play-history/static/js/787.854f476b.chunk.js",
     "index.html": "/my-play-history/index.html",
     "main.a3d56e6c.css.map": "/my-play-history/static/css/main.a3d56e6c.css.map",
-    "main.a6e0c5ef.js.map": "/my-play-history/static/js/main.a6e0c5ef.js.map",
+    "main.005a6963.js.map": "/my-play-history/static/js/main.005a6963.js.map",
     "787.854f476b.chunk.js.map": "/my-play-history/static/js/787.854f476b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a3d56e6c.css",
-    "static/js/main.a6e0c5ef.js"
+    "static/js/main.005a6963.js"
   ]
 }
