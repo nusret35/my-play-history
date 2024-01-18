@@ -60,6 +60,7 @@ function App() {
   };
   
   return (
+    
     <div className="App">
       <div style={{height:"100vh"}} onScroll={handleScroll} scrollTop={scrollPosition}>
         <div style={{marginTop:'7%',display:'flex',justifyContent:'space-between', padding:'5%'}}>
