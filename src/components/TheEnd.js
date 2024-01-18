@@ -35,7 +35,7 @@ function TheEnd() {
       }, []);
 
     return (
-        <div style={{ position: 'relative', height: '100%', width: '100%' }}>
+        <div style={{ position: 'relative',padding:'0%'}}>
           <img
             style={{ height: '100%', width: '100%', objectFit: 'cover' }}
             src="https://wallpapers.com/images/featured/kanye-west-saint-pablo-doziweiliyjwtmox.jpg"
@@ -45,7 +45,6 @@ function TheEnd() {
             ref={componentRef}
             className="fade-in-container"
             style={{
-              padding: '5%',
               opacity: isVisible ? 1 : 0,
               transition: 'opacity 1s ease-in-out',
               position: 'absolute',

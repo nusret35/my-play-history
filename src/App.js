@@ -58,7 +58,7 @@ function App() {
     const newScrollPosition = Math.round(event.target.scrollTop / window.innerHeight) * window.innerHeight;
     setScrollPosition(newScrollPosition);
   };
-
+  
   return (
     <div className="App">
       <div style={{height:"100vh"}} onScroll={handleScroll} scrollTop={scrollPosition}>
