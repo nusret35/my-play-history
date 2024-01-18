@@ -67,7 +67,7 @@ function App() {
           <div style={{width:'50%'}}>
             <h2 style={{fontSize:'70px',textAlign:'left'}}>My Apple Music Play History </h2>
             <p style={{fontSize:'30px', textAlign:'justify'}}>
-              Welcome to the musical journey of the past two years! 🎶 This project dives into the beats and rhythms that have colored my life from January 2020 to November 2023. Ever wondered what tunes accompanied those late-night study sessions or the soundtrack to the road trips? Well, you're about to find out!
+              Welcome to the musical journey of the past four years! 🎶 This project dives into the beats and rhythms that have colored my life from January 2020 to November 2023. Ever wondered what tunes accompanied those late-night study sessions or the soundtrack to the road trips? Well, you're about to find out!
             </p>
           </div>
           <div style={{alignSelf: 'center', height: '15%', width: '15%', marginRight: '10%' }}>{View}</div>
