@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-play-history/static/css/main.857cb841.css",
+    "main.js": "/my-play-history/static/js/main.ba259695.js",
+    "static/js/787.854f476b.chunk.js": "/my-play-history/static/js/787.854f476b.chunk.js",
+    "index.html": "/my-play-history/index.html",
+    "main.857cb841.css.map": "/my-play-history/static/css/main.857cb841.css.map",
+    "main.ba259695.js.map": "/my-play-history/static/js/main.ba259695.js.map",
+    "787.854f476b.chunk.js.map": "/my-play-history/static/js/787.854f476b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.857cb841.css",
+    "static/js/main.ba259695.js"
+  ]
+}
